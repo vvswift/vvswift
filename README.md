@@ -7,10 +7,6 @@
   <span style="font-size: 120px; font-weight: 900; line-height: 1;">V</span>
 </p>
 <p align="center">
-  <b><i>Beneath this mask there is more than flesh.<br>
-  Beneath this mask there is an idea — <b>and ideas are bulletproof</b>.</i></b>
-</p>
-<p align="center">
   <sub><b>Just a writer, exposing the weaknesses of certain protection systems.</b><br>
   All projects below are <b>research-only proof-of-concept tools</b> published strictly for authorized security testing, defensive research, and educational purposes.<br>
   <b>Any illegal use is expressly prohibited and is entirely at your own risk and responsibility.</b></sub>
