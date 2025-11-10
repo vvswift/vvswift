@@ -68,7 +68,8 @@
 </table>
 
 > If you like my work and want to support me, you can [sponsor me on GitHub](https://github.com/sponsors/)
-> <a href="https://github.com/sponsors/" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/h" /></a>
+>
+ <a href="https://github.com/sponsors/" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/h" /></a>
 
 ### My toolbox
 <p>
