@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Red_Team-red?style=flat-square" />
-  <img alt="Threat Detection Expert" src="https://img.shields.io/badge/EDR_Bypass-brightgreen?style=flat-square" />
+  <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Thread Hunter-brightgreen?style=flat-square" />
   <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Linux Enthusiast-blue?style=flat-square" />
   <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Networking Basics-8A2BE2?style=flat-square" />
   <img alt="Threat Detection Expert" src="https://img.shields.io/badge/Researcher-black?style=flat-square" />
