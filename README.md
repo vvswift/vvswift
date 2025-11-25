@@ -50,13 +50,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/blackbox-ave?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vvswift/RedTeam-Arsenal"><b>RedTeam-Arsenal</b></a> — curated collection of tools, scripts, and techniques for simulating adversarial activities and conducting security assessments, including beacons, C2 configurations, scripting, payload creation, and analysis tools for improving defensive strategies through research.</td>
+      <td><a href="https://github.com/vvswift/RedTeam-Arsenal"><b>RedTeam-Arsenal</b></a> — Curated collection of tools, scripts, and techniques for simulating adversarial activities and conducting security assessments, including beacons, C2 configurations, scripting, payload creation, and analysis tools for improving defensive strategies through research.</td>
       <td><img alt="C" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/RedTeam-Arsenal?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/RedTeam-Arsenal?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vvswift/Chrome-extension-installer"><b>Chrome-extension-installer</b></a> — chromium Extension Framework with command integration for system management, paired with Node.js servers for control operations, supporting browser persistence, data transfer, and command execution for web security studies.</td>
+      <td><a href="https://github.com/vvswift/Chrome-extension-installer"><b>Chrome-extension-installer</b></a> — Chromium Extension Framework with command integration for system management, paired with Node.js servers for control operations, supporting browser persistence, data transfer, and command execution for web security studies.</td>
       <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/Chrome-extension-installer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/Chrome-extension-installer?style=flat-square&labelColor=343b41"/></td>
