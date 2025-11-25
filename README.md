@@ -26,25 +26,25 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/vvswift/Bypass-Protection0x00"><b>Bypass-Protection0x00</b></a> — EDR & AV Bypass Arsenal — a comprehensive collection of tools, patches, and techniques for evading modern EDR and antivirus defenses, including AMSI bypass, ETW patching, unhooking NTDLL, and various evasion methods tailored for red team operations and security research.</td>
+      <td><a href="https://github.com/vvswift/Bypass-Protection0x00"><b>Bypass-Protection0x00</b></a> — EDR & AV Analysis Toolkit comprehensive collection of tools, patches, and techniques for analyzing and understanding modern EDR and antivirus systems, including studies on AMSI, ETW, NTDLL hooks, and other mechanisms for educational and defensive security research.</td>
       <td><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/Bypass-Protection0x00?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/Bypass-Protection0x00?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vvswift/Shellcode-Injector"><b>Shellcode-Injector</b></a> — PoC shellcode injector using clean syscalls to bypass user-mode hooks in ntdll.dll, featuring dynamic syscall resolution, process injection techniques, and support for custom payloads to aid in penetration testing and malware analysis.</td>
+      <td><a href="https://github.com/vvswift/Shellcode-Injector"><b>Shellcode-Injector</b></a> — PoC shellcode loader demonstrating direct system calls to avoid user-mode monitoring in ntdll.dll, with dynamic resolution, injection methods, and custom payload support for security testing and malware research.</td>
       <td><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/Shellcode-Injector?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/Shellcode-Injector?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vvswift/HVNC-windows-remote-toolkit"><b>HVNC-windows-remote-toolkit</b></a> — Remote administration toolkit for Windows based on Hidden VNC, including features like file manager, keystroke logger, PowerShell execution, clipboard monitoring, and stealthy desktop control for remote access scenarios.</td>
+      <td><a href="https://github.com/vvswift/HVNC-windows-remote-toolkit"><b>HVNC-windows-remote-toolkit</b></a> — Remote administration toolkit for Windows utilizing Hidden VNC technology, featuring file management, input logging, script execution, clipboard access, and discreet desktop viewing for authorized remote support and research.</td>
       <td><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/HVNC-windows-remote-toolkit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/HVNC-windows-remote-toolkit?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vvswift/blackbox-ave"><b>blackbox-ave</b></a> — Linux Rootkit (x86-64 / ARM64) that stealthily hides processes, files, and sockets, hooks syscalls, encrypts network traffic, bypasses SELinux / AppArmor, and provides backdoor access with modular persistence mechanisms for advanced kernel-level evasion.</td>
+      <td><a href="https://github.com/vvswift/blackbox-ave"><b>blackbox-ave</b></a> — Linux Kernel Module for Research (x86-64 / ARM64) demonstrating process, file, and socket hiding, syscall interception, network encryption, security policy analysis, and persistence techniques for educational purposes in kernel security.</td>
       <td><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/blackbox-ave?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/blackbox-ave?style=flat-square&labelColor=343b41"/></td>
@@ -56,7 +56,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/RedTeam-Arsenal?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/vvswift/Chrome-extension-installer"><b>Chrome-extension-installer</b></a> — Chromium Extension Framework with command integration for system management, paired with Node.js servers for control operations, supporting browser persistence, data transfer, and command execution for web security studies.</td>
+      <td><a href="https://github.com/vvswift/Chrome-extension-installer"><b>Chrome-extension-installer</b></a> — chromium Extension Framework with command integration for system management, paired with Node.js servers for control operations, supporting browser persistence, data transfer, and command execution for web security studies.</td>
       <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/vvswift/Chrome-extension-installer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vvswift/Chrome-extension-installer?style=flat-square&labelColor=343b41"/></td>
