@@ -1,7 +1,7 @@
 
 </p>
 <p align="center">
-  <span style="font-size: 120px; font-weight: 900; line-height: 1;">V</span>
+  <span style="font-size: 120px; font-weight: 900; line-height: 1;">vv</span>
 </p>
 <p align="center">
   <sub><b>Just a writer, exposing the weaknesses of certain protection systems.</b><br>
